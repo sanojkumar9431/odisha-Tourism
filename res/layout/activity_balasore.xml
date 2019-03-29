@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Balasore is mostly preferred by travellers. The go to destination for types of travellers, be it family, kids and couples. Balasore is, however, mostly preferred by Family. The best season or months to visit places in Balasore are October, November, December. There are 12 tourist places in Balasore, which can be explored by travellers. Local attractions can be visited at any time of the day, be it early morning, afternoon, evening or night, as suitable for travellers. Sightseeing in Balasore can be done by travellers, which will take half a day or one day, but to see all sightseeing places, travellers need to stay in Balasore for 2 days to 3 days.
+
+Travellers can also visit Balasore to learn about places to visit, browse through photos and pictures, explore Balasore using a map and read sightseeing reviews. Recently reviewed tourist attractions in Balasore, which are great places to visit are Chandbali, Chandipur Beach, Talshari, Kuldiha Wild Life Santuary, Panchalingeswar. Balasore can be visited in summer, monsoon or winter."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Panchalingeswar"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/panchl" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Panchalingeswar is located on a hillock near Nilagiri which is popular for its natural surroundings. The main attraction of this place is a temple having five lingas with a perennial spring flowing over them. The place derived its name from the five lingams that are also known as Panchalingeswar."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kuldiha Wild Life Santuary "
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kuldiha" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kuldiha Wild Life Sanctuary, spread across an area of 300 sq km, is situated in the deciduous hilly terrain of the Kuldiha forests, in Balasore. Offering an appropriate environment for a variety of rare wild life, some of the animals that are seen in this sanctuary include sambar, elephants, gaur, leopard and giant squirrel. Also variety of birds like hornbills, myna, and peafowl cam be found here. This sanctuary is also home to an array of reptilian species that are mostly seen in the water streams flowing through the forest area. Indian wild dog or Dhole, a critically endangered species, is found in abundance in this sanctuary and it is also home to a variety of plant species.
+Jeep safari is the best way to enjoy the forests with the whole family. Jeeps are available from the sanctuary gate and are operated by the Government of Odisha Forest Department.
+The best season to visit the park is between November and February when animal sightings are more. One can also club a visit to the Simlipal National Park while visiting Kuldiha Wild Life Sanctuary.
+Trekking enthusiasts can consider a trek to Nilagiri from the Kuldiha Wild Life Sanctuary.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chandbali "
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chandbli" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Since medieval times, Chandbali is considered a popular river port. From this place, tourists can avail boat rides to places like Dhamra and Aradi.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chandipur Beach"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chandibeach" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chandipur Beach is a popular tourist destination situated in the coastal village of Chandipur. Also known as Chandipur-on-sea, during low tide, it is a spectacular sight to see swarms of red crabs sticking their heads out of the sand. Visitors can also enjoy the view of the vast expanse of Bay of Bengal with its small fishing boats and motor launches.
+Other than being a tourist spot there are quite a few temples like Panchalingeshwara temple and Bhudara Chandi ShrineTemple situated not very far from the beach.
+Chandipur Beach is easily approachable by road.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+         
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

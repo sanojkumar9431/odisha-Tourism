@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Puri is one of the most visited destinations of eastern India. The abode of Lord Jagannath, Puri constitutes one of the four Dhams or celebrated pilgrimage sites of India and one of the seven most holy places for the Hindus. A pilgrimage of temples in India is considered incomplete without a visit to Puri. The popularity of the city also lies in its beaches. With the Bay of Bengal washing its shores Puri is a preferred beach resort for many. Religious sanctity of the place combined with architectural splendour and seascape beauty has made Puri a much sought-after destination for tourists. From Jagannath Puri Temple to Chilka Lake, Puri Beach to Narendra Tank, here are the top tourist places to visit in Puri"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rath Yatra"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/rath" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Jagannath Rath Yatra is an annual festival which is a gorgeous affair. Rath means chariot and Yatra means procession or journey. Every year from mid-June to mid-July, the idols of Lord Jagannath, his brother Balabhadra and sister Subhadra are taken out of the temple and placed on decorated chariots, drawn manually by millions of devotees who throng the city. They are taken to the garden temple Gundicha Ghar. At the end of the 10th day the idols return to the main temple. Such is the enormity of the festival that the Rath Yatra is covered live on television. It is a ceremony that cannot be given a miss for anyone visiting Puri"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jagannath Temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jagganth" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The sacred abode of Lord Jagannath or the Lord of the Universe, the Jagannath Temple is one of the most renowned temples not only in Orissa but in India. Thousands of devotees pour in from different parts of the country and the world to pay their homage to the presiding deity. The temple is an architectural splendour towering over its surroundings. Embellished with exquisite carvings and sculptures, the temple is a feast for the eyes. The architectural, historical and religious importance of the Jagannath Temple makes it Puri’s chief tourist attraction. The temple opens at 5.00am and closes at 1.30pm. In the evening again it opens at 5.30pm and closes at 9.30pm. People of non-Hindu origin are not allowed entry into the temple."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Puri Beach"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/beach" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Undoubtedly one of the most popular beaches of eastern India, Puri beach is defined by golden sands, fascinating views of the sunrise and sunset and charming beach resorts combined with lip-smacking sea food. Puri beach is also ideal for swimming which accounts for its popularity with tourists. Every year in the month of November, the Puri Beach Festival is organised by Indian Ministry of Tourism, the state of Orissa (Odisha), the Development Commissioner of Handicrafts and the Eastern Zonal Cultural Center of Kolkata. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chilka Lake"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chilka" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lake Chilka is Asia’s largest brackish water lagoon extending from Bhusandpur in Puri in the North to Rambha-Malud in Ganjan district in the south. It has some beautiful islands called Honeymoon, Somolo and Nalabana. It is also home to a phenomenal variety of migratory birds. Almost 160 different species of birds can be found here between November and February. Off the Satpada Island dolphins can also be spotted. It is a great place for nature lovers"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Narendra Tank"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/narendr" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Built in the 15th century this is one of the largest tanks in Orissa with 16 ghatas (bathing places). Many big and small temples exist around the tank. This is a holy tank where the Chandana Yatra of Lord Jagannath, also known as Chandana Pushkarini is annually celebrated."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

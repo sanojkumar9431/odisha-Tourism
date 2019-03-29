@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Baripada is mostly preferred by travellers. The go to destination for types of travellers, be it family, kids and couples. Baripada is, however, mostly preferred by Family. The best season or months to visit places in Baripada are February, March, April, May, June, October, November, December. There are 9 tourist places in Baripada, which can be explored by travellers. Local attractions can be visited at any time of the day, be it early morning, afternoon, evening or night, as suitable for travellers. Sightseeing in Baripada can be done by travellers, which will take half a day or one day, but to see all sightseeing places, travellers need to stay in Baripada for 2 days to 3 days.
+
+Travellers can also visit Baripada to learn about places to visit, browse through photos and pictures, explore Baripada using a map and read sightseeing reviews. Recently reviewed tourist attractions in Baripada, which are great places to visit are Khiching, Bhimakunda, Shimlipal National Park. Baripada can be visited in summer, monsoon or winter.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Simlipal national park"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/salipal" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A beautiful and scenic town in Orissa in the area of Marurbhan is Simlipal which once used to be a hunting ground for the rulers of Marurbhanj. The area today has the largest wildlife sanctuaries of India and is also considered as one of the main tiger project in India. The area of Simlipal is enriched with dense forests, striking meadows, startling waterfalls and beautiful rivers. Simlipal reserve is blessed with great bio-diversity and huge varieties of faunas with the environment of cool breeze emerging out of the dense forests. The lushly atmosphere of Simlipal makes it the perfect location for forest camping.
+
+Simplipal Reserve is the safest paradise for a large variety of wildlife creatures which include Leopard, Gaur, Elephant, Langur, Barking and Spotted Deer, Sloth Bear Mongoose, Flying Squirrel, Porcupine, Turtle, Monitor Lizard, Python, Sambar, Pangolin, Crocodile and Four horned Antelope. Around 230 species of birds like the Grey Hornbill, Indian Pied Hornbill, Malabar Pied Hornbill, Indian Trogon, Red Jungle Fowl, Hill Mynah, Peafowl, Alexandrine Parakeet, and Crested Serpent Eagle can be seen here. Also known as Simlipal Elephant Reserve, it is a complete ecosystem with forest vegetation along with the adjoining Santhal tribal settlements.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Palace of Mayur Bhanj"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/palace" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This beautiful massive white building depicts an amazing fusion of sincere engineering and intricate architecture and is one of the landmarks of Baripada.
+
+This magnificently beautiful palace belonged to the Maharajas of Mayurbhanj which also was revered as a princely state during British Raj but was sold to the Orissa government after the independence by the last ruler of Bhanj dynasty. The palace, however needs a lot of renovation and is now divided into two colleges.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jwala mukhi temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jwala" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This is a temple where a blue burning flame is kindled with reliant devotion as Goddess Jwala, the goddess of light or fire.
+
+It is another temple which is well known because of its ancient connections, its lush green surroundings and the power of the goddess who bestows blessings on her devotees. The dome of the temple is made of gold which was gifted by Akbar, the Mughal emperor.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Jagannath temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jagganbaripada" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Sri Jagannath Temple is a revered Hindu temple that is situated in Baripada in the Mayurbhanj district of Odisha. Dedicated to the Lord of the Universe, or Lord Jagannath (since 'Jagat' means world and 'Nath' means lord of), the temple witnesses an inflow of a large number of pilgrims throughout the year. The temple is also known as the second Srikhetra of Orissa and boasts of being one of the oldest temples of Orissa. The Rathyatra that takes place here is also a grand affair and is the second largest after the Puri Rath Yatra. At the same time, the rituals and practices that are followed at the temple are unique and revolutionary.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chandipur market"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chandipur" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Baripada region is famous for its fine Bangripori 'tusser' fabric and people who visit this place should surely invest in these. Market of Chandanpur has an elaborately wide variety of handlooms and other such things.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+              <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Baripada museum"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/museum" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Get stunned by the some of the rarest artifacts here, like stone sculptures, historical documents, terracotta art pieces and other aesthetic commodities.
+
+And to top it all the museum also has a library which has guide books about the history of the artifacts.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

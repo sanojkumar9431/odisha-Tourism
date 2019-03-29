@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Once the capital of the princely state of Patnagarh, Bolangir town, today is also known for holding the same charm and serenity. It is one of the major commercial town of western Odisha is the native land of vivid tribes. The land of Maharajas compels tourist to come for Bolangir tourism and achieve a rewarding experience."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bhima Dunguri"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bhima" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bhima Dunguri has been attributed with a special place in the tourism map of the Balangir district due to its splendorous natural bounty and beauty which is encircled by evergreen forest. Bhima Dunguri, famous by its ancient natural caves which are lying scattered at different places of the hilly area. The panoramic view of this area is unparallel during the spring season, so any kind of tourists is definitely enchanted here due to its beautiful landscape."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kumuda Pahad"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kumanda" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kumuda Pahad is a natural splendorous place of great tourism interest. As its name suggest, it is a hilly area where Lord Dhabaleswar is embodied in a very big natural spacious caves measuring an area of 80 feet by 40 feet. There are also 3 others caves nearby. The temple is just 40 feet above from the hill foot. It is a small temple in its kind but most famous temple in this area due to religious essence. A great number of visitors visit this temple as the Lord Dhabaleswar is very benevolent and merciful to the visitors. Thousands of visitors pay visit to the temple during the month of Shravana and Shivaratri."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Turekela"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/turekeka" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="98kms away from Balangir, a place suitable for group adventurism Tureikela is important for viewing colorful wild life like tigers, deers, bears, foxs, elephants, wild birds, monkeys, wolfs etc. The chirping birds perched on trees are a thrill to the searching eyes. School and College students, weekend tourist and leisure tourist throngs here to celebrate new years in the lap of nature."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gaikhai M.I.P"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gaikhai" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30 kms away from balangir town, a place of great scenic beauty, Gaikhai is surrounded by green capped hills on three sides. The water mass here dazzles with natural scenery and offers cool breeze to the visitors. An ideal place for group camping, the place also is thronged with picnickers all the year round."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ranipur Jharial"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ranipur" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="104kms. away from Balangir town to the south west, stands on a rocky hill, the shrine of presiding deity of 64 Yoginis. Ranipur Jarial is known as “Soma Tirth” in scriptures. It is a combination of religious faiths of Saivism, Budhism, Vaisnavism and Tantrism. Sixtyfour Yoginis are worshiped on a close circular openvault. The major attaraction of the place is one of the four such shrines in India. The temple dedicated to Lord Someswar Siva is the noted one among a plethora of about 50 temples here.
+
+Indralath, the majestic brick temple is said to be the highest brick temple of Odisha. Mundpadar at a distance of 4kms is the nearest bus stop to reach Ranipur Jharial"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

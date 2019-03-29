@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="One of the oldest cities of India, the history of Bhubaneswar stretches back over 2000 years where it held the distinction of being the capital of ancient Kalinga. Retaining its place of glory and importance, Bhubaneswar today is the capital of the state of Orissa (Odisha). Apart from its obvious political significance, Bhubaneswar is an important pilgrimage centre and the home to over 500 of India’s finest temples which has earned it the nomenclature of ‘City of Temples.’ These temples not only form the core around which the religious life of the city revolves but they are of tremendous archaeological and historical significance. A trip to this ancient city of India will find any traveler lost in the pages of history. Here the past and the present co-exist peacefully to create a fine balance between modernity and antiquity. So if you were in Bhubhaneshwar and could only do so much, what would be the top tourist places you would visit? Read on to find out! "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Udayagiri and Khandagiri"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/khandg" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Some of the finest specimens of rock cut architecture are found in the twin hills of Udayagiri and Khandagiri. These ornately carved out caves were built for Jain monks and date back to 2nd century BC. Udayagiri has 18 caves while Khandagiri has 15 caves. Several ancient inscriptions from the period have been found here, the most important being the Hathigumpha Inscription. The caves remain open from 10.00am to 5.00pm. An entry fee of Rs. 10 is charged for Indian nationals while the fee for foreigners is Rs.100.00."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lingaraj Temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/lingraj" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Kalinga style of architecture which developed in Orissa is nowhere better manifested than the Lingaraj Temple dating back to 1000 A.D, dedicated to Lord Shiva. Built of sandstone and laterite, it is the grandest, most fascinating and undoubtedly the largest temple in Bhubaneswar. An architectural splendour, the Lingaraj Temple is one of the most visited monuments in the city. The temple remains open to public from 6.00am till 9.00pm. Entry is free. Visitors of non-Hindu origin are not allowed entry into the temple"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dhauli Giri"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dhauli" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Located on the banks of River Daya, Dhauli is presumed to be the spot where the famous Kalinga War was fought. It is here that driven by the horrors of the war King Asoka renounced war and embraced Buddhism. It has emerged as an important Buddhist pilgrimage centre in the country. On top of the hill a Shanti Stupa or a white peace pagoda was constructed by the Japan Buddha Sangha and the Kalinga Nippon Buddha Sangha in the 1970s."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nandankanan Zoological Park"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/zoo" />
+            
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This 990 acre zoo and botanical garden is a major tourist attraction in Bhubaneswar. Nandankanan or ‘The Garden of Heavens’ lies in the vicinity of the Kanjia Lake and Chandaka forest. It is home to 120 different species of animals including mammals, reptiles and birds. It is extremely popular for its white tigers. The zoo houses aquaria, a reptile park and orchid house. The zoo remains open from 7.30am to 5.30pm from April to September. From October to March it remains open from 8.00am till 5.00pm. The zoo remains closed on Mondays. Entry fee for Indians is Rs. 10.00 and Rs. 100.00 for foreign nationals. An additional fee of Rs. 5.00 is charged for still cameras and Rs.10.00 for video. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Orissa State Museum"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/stmus" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Orissa State Museum is a treasure trove of archaeological findings which include Buddhist and Jain sculptures, coins and inscriptions from ancient Kalinga, jewellery, folk musical instruments, weapons and tools. Open between 10.00am and 5.00pm, the museum remains closed on Mondays. An adult ticket costs Rs.5.00"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,185 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BhrampurActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+              <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignParentTop="true"
+        android:text="Bhadrak is famous for Bhadrakali Temple, which is also now a great occasion over the district. Aradi, Chandabali, Dhamanagar, Dhamara, and Guamala Nuasasan are some other places of tourist interest. Brahmangan, another village in Basudevpur constituency of this district is famous for its century old Prasanna Khemeswar mahadeva temple and its melana jatra during Holi. Durga puja and Jagar also famous in this village. Bonth, Basantia, Basudebpur blocks and villages respectively in which village various Melas are organised in various days of the year out of which Panchuka Purnima which is celebrating in a very great fun of people in which boat is sailed in the big pond of Basantia village in the memories of Oriya Sadhabas, who was going to make their business in the near islands like Java and Borneo, Indonesia for too many days. Also in this mela many  Opera parties perform their  plays here too."
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Akhandalmani temple"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/akhandalmani" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="On the bank of river Baitarani, the Akhandalamani Temple is the abode of Lord Shiva. The chief interest of the place is its legendary history for which it shares a significant position in the tourism of Bhadrak. As the history runs, king Niladri Samara Singha Mohapatra started worshipping the God Akhandalamani some 350 years ago, when the black glazed granite stone was found underground and the king dreamt of the god. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    ..............................
+    
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Dhamra port"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/dhamraport" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Dhamara Port is an ancient port on the banks of the river Baitarani, around 5 kms from Kanika Palace. The reminiscent are the direction tower and some ancient structures.The nearest railway station is Bhadrak which is 62 kms away from Dhamra on Chennai to Howrah line. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+........................
+ >
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Biranchnarayan temple"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/biranchanarayan" />
+
+    <TextView
+        android:id="@+id/textView333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Sri Biranchinarayan Temple is in Palia village, which is located 15 km south of Bhadrak, on the way from Bhadrak to Chandabali. It occupies a significant place in the cultural map of Orissa state of India. Today, the standing Biranchi Narayan Temple stands as evidence of the heritage of Surya Upasana in Orissa. Biranchi Narayan is another name for Lord Surya, the Sun God of light and lustre. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+......................
+ 
+    <TextView
+        android:id="@+id/textView2222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Maa bhadrakali"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/bhadrakali" />
+
+    <TextView
+        android:id="@+id/textView3333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="One of the famous temple of Goddess Bhadrakali is located in the outskirts of the revenue village Aharapada which is at a distance of 8 kms away from Bhadrak town in the south- west direction. One has to go via Santhia and Utarabahini in the south-west direction of Kacheri Chhaka of Bhadrak town to reach the shrine. The popular belief is that the name of the Town has been derived from the name of the deity. The statue of Goddess is of black granite and is seated in lotus posture on a lion.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+.......................
+
+  
+    <TextView
+        android:id="@+id/textView22222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Raktatiratha eram"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView11111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/raktatiratha" />
+
+    <TextView
+        android:id="@+id/textView33333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Location This famous place of sacrifice located at 16 km away from Basudebpur of Bhadrak district. One side of this land is bounded by the Bay of Bengal and the other three sides are surrounded by two rivers the Gameye and Kansabansa. Secured by these natural boundaries this place is used as a citadel by the freedom fighters. Due to these natural boundaries it is not so easy for the police and the administrative persons to enter in to this place.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+.........
+
+    
+
+            
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    -<ScrollView android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/scrollView1">
+
+
+-<LinearLayout android:layout_height="match_parent" 
+android:layout_width="match_parent"
+ android:orientation="vertical">
+
+<TextView android:layout_height="wrap_content"
+     android:layout_width="wrap_content" 
+     android:id="@+id/textView1" 
+     android:textAppearance="?android:attr/textAppearanceSmall" 
+     android:text="Although the district came into existence on the 2nd October 1992. It has long and glorious historical records evident by copper plates, rock inscriptions as well as different coins, which clearly indicate the region was the centre of attraction in all ages. 
+     " 
+     android:layout_alignParentTop="true" 
+     android:layout_alignLeft="@+id/imageView1"/>
+
+<TextView android:layout_height="wrap_content" 
+    android:layout_width="wrap_content" 
+    android:id="@+id/textView2" 
+    android:textAppearance="?android:attr/textAppearanceLarge"
+     android:text="Laxminarayana temple" 
+     android:layout_marginTop="14dp" 
+     android:layout_below="@+id/textView1" 
+     android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" 
+    android:layout_width="wrap_content" 
+    android:id="@+id/imageView1" 
+    android:layout_alignParentLeft="true" 
+    android:src="@drawable/laxminarayana" 
+    android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" 
+    android:layout_width="wrap_content" 
+    android:id="@+id/textView3" 
+    android:textAppearance="?android:attr/textAppearanceSmall" 
+    android:text="The road was surprisingly good and the view was awesome with verdant farmlands hemmed in by hills all around. A corporate house, Indian Metals and Ferro Alloys Limited (IMFA) have built a beautiful temple complex within their campus.
+    " 
+    android:layout_alignLeft="@+id/imageView1" 
+    android:layout_alignBottom="@+id/imageView1"/>
+ 
+<TextView android:layout_height="wrap_content" 
+    android:layout_width="wrap_content" android:id="@+id/textView11" android:textAppearance="?android:attr/textAppearanceSmall" android:text="" android:layout_alignParentTop="true" android:layout_alignLeft="@+id/imageView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView22" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Maa majhigharani" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView11" android:layout_alignParentLeft="true" android:src="@drawable/majhigaram" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView33" android:textAppearance="?android:attr/textAppearanceSmall" android:text="The presiding diety of Rayagada, Maa Majhghariani, is known as Majji Gowri in A.P. Originally a tribal diety, she is considered to be an incarnation of Goddess Durga." android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+ 
+
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView222" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Chatikona" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView111" android:layout_alignParentLeft="true" android:src="@drawable/chatikona" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView333" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Rayagada is a mineral-rich district in the southern part of the state of Orissa, in India. The city Rayagada is its headquarter. The population of this district consists mainly of tribals. " android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2222" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Hanging brindge" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1111" android:layout_alignParentLeft="true" android:src="@drawable/hangingbridge" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView3333" android:textAppearance="?android:attr/textAppearanceSmall" android:text="The Hanging Bridge that connects the two sides of river Nagavali, which providing connectivity to the poor rural tribal population, a 151 metre suspension bridge, the second of its kind in the state. 
+    " android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+....................... 
+
+</LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>

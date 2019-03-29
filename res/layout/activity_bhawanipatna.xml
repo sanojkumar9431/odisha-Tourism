@@ -1,0 +1,186 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BhrampurActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+              <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignParentTop="true"
+        android:text="Bhawanipatna is a city and district headquarter of the Kalahandi district in the Indian state of Odisha. Bhawanipatna is a city of numerous temples dedicated to different deities of Hindu pantheon.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Karlapat Wildlife Sanctuary"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/karlapat" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="It is established o 6th January, 1969 with multitude of wild animals like leopards, tigers, chitals, sambhars, and guars; the sanctuary is constructed on a hilly terrain. The fauna here consists of canopies of tropical deciduous trees. The place is a perfect haven for bird watchers and animal lovers.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    ..............................
+    
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Patalganga"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/patalganga" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Another holy spot located near the destination is Patalganga. This hot water spring is worshipped as the holy river Ganges by the localities.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+........................
+ >
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Ampani Hills"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/ampani" />
+
+    <TextView
+        android:id="@+id/textView333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="The valley of Haladigundi and Ampani Hills are the tourist delight places around Bhawanipatna. The hills provide spectacular wildlife and exclusive cave prehistoric paintings, these attractions those are located at about 77 kilometres from Bhawanipatna.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+......................
+ 
+    <TextView
+        android:id="@+id/textView2222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Belkhandi Museum"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/balkhandimuseum" />
+
+    <TextView
+        android:id="@+id/textView3333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="The museum has a collection of stone sculptures as well as some excavation sites. The mingling of Utei and Tel makes Belkhandi one of the tourist places in Bhawanipatna.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+.......................
+
+  
+    <TextView
+        android:id="@+id/textView22222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Karlapat"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView11111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/karlapt" />
+
+    <TextView
+        android:id="@+id/textView33333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="It is also a wildlife attraction that will make your trip worthwhile.  Accessible from Bhawanipatna, this haven of nature is offers pleasurable sites. Khandulala Falls is the added beauty that everyone loves to spend time within it.
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+.........
+
+    
+
+            
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

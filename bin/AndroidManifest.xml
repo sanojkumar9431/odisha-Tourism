@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sagarika1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+     
+     <application
+        android:allowBackup="true"
+        android:icon="@drawable/wallpaper"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="sagarika1.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sagarika1.Grid"
+            android:label="@string/title_activity_grid" >
+        </activity>
+        <activity
+            android:name="sagarika1.Bhubaneswar"
+            android:label="@string/title_activity_bhubaneswar" >
+        </activity>
+        <activity
+            android:name="sagarika1.Puri"
+            android:label="@string/title_activity_puri" >
+        </activity>
+        <activity
+            android:name="sagarika1.Rourkela"
+            android:label="@string/title_activity_rourkela" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Sambalpur"
+            android:label="@string/title_activity_sambalpur" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Berhampur"
+            android:label="@string/title_activity_berhampur" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Jeypore"
+            android:label="@string/title_activity_jeypore" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Balangir"
+            android:label="@string/title_activity_balangir" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Balasore"
+            android:label="@string/title_activity_balasore" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Baripada"
+            android:label="@string/title_activity_baripada" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Jharsuguda"
+            android:label="@string/title_activity_jharsuguda" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Cuttack"
+            android:label="@string/title_activity_cuttack" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Rayagada"
+            android:label="@string/title_activity_rayagada" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Bargarh"
+            android:label="@string/title_activity_bargarh" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Bhawanipatna"
+            android:label="@string/title_activity_bhawanipatna" >
+        </activity>
+        <activity
+            android:name="com.example.sagarika1.Bhadrak"
+            android:label="@string/title_activity_bhadrak" >
+        </activity>
+    </application>
+
+</manifest>

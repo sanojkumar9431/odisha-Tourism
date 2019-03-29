@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OdishaTourism</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_grid">City</string>
+    <string name="title_activity_bhubaneswar">Bhubaneswar</string>
+    <string name="title_activity_puri">Puri</string>
+    <string name="title_activity_cuttack">Cuttack</string>
+    <string name="title_activity_rourkela">Rourkela</string>
+    <string name="title_activity_sambalpur">Sambalpur</string>
+    <string name="title_activity_berhampur">Berhampur</string>
+    <string name="title_activity_jeypore">Jeypore</string>
+    <string name="title_activity_balangir">Balangir</string>
+    <string name="title_activity_balasore">Balasore</string>
+    <string name="title_activity_baripada">Baripada</string>
+    <string name="title_activity_jharsuguda">Jharsuguda</string>
+    <string name="title_activity_bargarh">Bargarh</string>
+    <string name="title_activity_bhadrak">Bhadrak</string>
+    <string name="title_activity_bhawanipatna">Bhawanipatna</string>
+    <string name="title_activity_rayagada">Rayagada</string>
+
+</resources>

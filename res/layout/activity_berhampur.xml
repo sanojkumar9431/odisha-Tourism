@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="There are a number of exciting things to do in Berhampur. From historical sites to cultural attractions, explore the exhaustive list of all other local attractions in Berhampur. Discover new places to see and unique things to do nearby Berhampur. Don't miss out on these amazing sights at Berhampur. Check out the list of attractions and activities to do in Berhampur and nearby areas. It will help you to plan a perfect trip to Berhampur. Highlights of Berhampur includes – Best things to do in Berhampur and nearby areas, top attractions to visit such as historical monuments, natural attractions, adventurous and entertainment activities to do, places to eat and drink."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gopalpur beach"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gopalpurbeach" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This beach is situated at a distance of about 16 km from the city of Brahmapur. Gopalpur Beach is a great place to visit with your family and friends to have a relaxing time away from the chaotic everyday life."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tatarani temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tataranitemple" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Taratarini temple is located at a distance of 32 km from the main city and is dedicated to Goddess Tara and Goddess Tarini. They are twins. Rushikulya, a sacred river also flows through the vicinity of the temple. Apart from adding to the religious sentiments, it also helps in enhancing the beauty of the locality. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mantridi sidha bhairavi temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mahendragiritemple" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mantridi Siddha Bhairavi Temple is another Shakti Peeth located in the small village of Mantridi which is at a distance of 18 km from the city of Brahmapur. It is said that the idol of Goddess Bhairavi was discovered by a farmer while ploughing his field. A temple was built thereafter and this idol was placed there in 1937."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Aryapalli beach"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/aryapallibeach" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Aryapalli is a popular beach of Odisha that is situated just 32 kms away from Brahmapur. People who like the Gopalpur Beach often find this beach equally alluring. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mahendaagiri"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mehandagiri" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mahendaagiri is a 1500 m tall hill found in the middle of the dense green forests. This adds to the natural beauty of the city. This station is not just appreciated for its beauty and culture but also because of its importance in the history of Hindu religion. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

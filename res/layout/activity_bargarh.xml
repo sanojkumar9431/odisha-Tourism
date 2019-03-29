@@ -1,0 +1,156 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BhrampurActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+              <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignParentTop="true"
+        android:text="Being the business hub of Western Orissa, Bargarh is situated towards the western border of the state towards Chhattisgarh. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Narsinghnath"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/narsinghnath" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Nrusinghnath is one of the most worshipped deities in Orissa and is an avatar Lord Vishnu. The temple of Nrusinghnath was built in 1413 A.D on March 17 as inscribed. The temple is only 45 ft high and is divided into two parts. The first part is the seat of Lord Nrusinghnath while the other part has four pillars which are supporting three gates. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    ..............................
+    
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Gandhamardan"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/gandhamardan" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="As per the epic Ramayana, while Lord Hanuman was carrying the entire mountain mass to Lanka so as to find a cure for Laxman by providing him with Sanjeevani. It is believed that a part of mountain was dropped here while on the way to Lanka. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+........................
+ >
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Debrigarh wildlife sanctuary"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/debrigarh" />
+
+    <TextView
+        android:id="@+id/textView333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Debrigarh Wildlife Sanctuary is an emerald heaven that is nestled in the Baraphad Hills that lie at an altitude of 2267 feet above sea level. The place is famous for being the base for Veer Surendra Sai, a freedom fighter who was said to be caught here by the British officials. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+......................
+ 
+    <TextView
+        android:id="@+id/textView2222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="14dp"
+        android:text="Astasambhu"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ImageView
+        android:id="@+id/imageView1111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/asthasambhu" />
+
+    <TextView
+        android:id="@+id/textView3333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Astasambu or the Eight Shivas have been a vital part of Bargarh and its vicinity. During the reign of the Chauhans there were many temples made that were dedicated to Lord Shiva. 
+        "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+.......................
+
+  
+   
+
+            
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

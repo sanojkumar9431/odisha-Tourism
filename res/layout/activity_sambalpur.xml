@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Famous for its Sambalpuri Saree, the Sambalpur District is the western part of state of Odisha. The District is surrounded by Deogarh District in the East, Bargarh Districts in the West, Jharsuguda District in the North and Sonepur and Angul Districts in the South."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GHANTESWARI TEMPLE"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ghan" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Maa Ghanteshwari Temple is situated 33 kilometres (21 mi) southwest of the district capital Sambalpur on the bank of Mahanadi River. The Chipilima Hydro Powerplant (CHEP) is located near the temple on the same river bank."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SAMLESWARI TEMPLE"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/saml" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shree Shree Samaleswari, the presiding deity of Sambalpur, is a strong religious force in western part of Odisha and Chhattisgarh state of India. On the bank of the river Mahanadi the mother goddess Samaleswari is worshipped from ancient times as Jagatjanani, Adishakti, Mahalaxmi and Mahasaraswati. Ptolemy has described the place as Sambalak, according to Tavernir, the French traveller, and Edward Gibbon, the English historian, diamonds were exported to Rome from Sambalpur."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DEER PARK"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/deer" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The zoo is quite quaint and serene. There are some spotted deers, antelopes, bear, wild boar, peacocks, reptiles and numerous birds. Kids will enjoy this well maintained place. There is childrens play area also inside the zoo, Entrance fee is Rs 10 for Adults. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HIRAKUD DAM"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hirakudadm" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hirakud Dam is built across the Mahanadi River, about 15 kilometres (9.3 mi) from Sambalpur in the state of Odisha in India. Behind the dam extends a lake, Hirakud Reservoir, 55 km (34 mi) long. It is one of the first major multipurpose river valley projects started after India's independence."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GUDGUDA WATER FALL"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gudguda" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gudguda, one of the most beautiful Picnic Spot. Though Gudguda comes under Sambalpur District,Many peoples flock this place from neighboring towns like Deogarh, Jharsuguda,Sambalpur and even Rourkela too. From Jharsuguda, it takes only 1.5 hours to reach to the spot. The Roads are fantastic after you cross Kolabira Village. Journey to this place is very pleasant. You can hardly find any vehicles after Kolabira Village."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,142 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jeypore, also spelled Jayepore, is a large city in the state of Odisha and is famous for its fresh water lakes, waterfalls and valleys. Jeypore is home to about 62 affiliated communities such as Gond, Dhruba, Paraja, Koya.
+
+Situated at the southern boundary of Odisha, Jeypore is connected with Andhra Pradesh in south. The city has its own historic significance and is the second largest city after Berhampur of south Odisha. Locally pronounced as 'Joypur' and the literal meaning of Jayepore is 'City of Victory'. Visiting Jayepore is a welcome break for tourists who want to take a break from the city life.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bagara"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/begara" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This is yet another picnic spot and a famous waterfall of the region. The water falls from three different waterfalls, descending from a height of 30 ft. in the River Kolaban and is adored for the beauty of the landscape.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kolab Hydro Electric power reservoir and Botanical Garden"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kolab" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kolab reservoir generating Hydro electric power is a popular and fun picnic spot, situated 3000 ft. above the sea level. And just nearby, there is Kolab Botanical garden with more than 200 varieties of flowers.
+
+This region provide spectacular view in night. Boating activities keep the tourist engaged with the region.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sunabeda"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/suna" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sunabeda town in the state of Odisha, India, is located in the valleys of the Koraput region. The place has lush valleys which attracts tourists towards its natural landscape. Moreover, an Aero-Engine Factory has been established at this place. The national highway 43 which runs over the mountains offers an unforgettable experience while travelling to Sunabeda.
+
+Sunabeda town in the state of Odisha, India, is located in the valleys of the Koraput region. The place has lush valleys which attracts tourists towards its natural landscape. Moreover, an Aero-Engine Factory has been established at this place. The national highway 43 which runs over the mountains offers an unforgettable experience while travelling to Sunabeda.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gupteshwar Caves"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+              <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gupy" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Lord Shiva temple beautifully hidden amidst caves shrine set atop a huge limestone hill, known to be Gupteshwar, is located on the banks of Kolab River.
+
+Nearby people from Madhya Pradesh throngs the hillside to worship the deity. The prime anniversary, Shivratri is celebrated by the locals at Gupteshwar
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Patraput bridge"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/patra" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This suspension bridge signifies the beauty of old-age architecture. The was designed particularly to carry a 10-ton roller. It was built under the rule of Britishers in India.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

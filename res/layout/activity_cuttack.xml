@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.03" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+            <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Cuttack is a city in the eastern Indian state of Odisha. It's on a peninsula flanked by the Mahanadi River to the north and the Kathajodi River to the south. The ruins of moated Barabati Fort, once home to the Eastern Ganga dynasty, show the city’s medieval significance. Within the fort's walls lies the Shahi Mosque, with its 3 white domes. Nearby, Maa Cuttack Chandi Temple is a pilgrimage site for Hindu devotees." android:layout_alignParentTop="true" android:layout_alignLeft="@+id/imageView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Bhitarkanika Wildlife Sanctuary" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1" android:layout_alignParentLeft="true" android:src="@drawable/wildctk" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView3" android:textAppearance="?android:attr/textAppearanceSmall" android:text="This wildlife sanctuary is regarded as one of its kind in Asia and is home to one of the rarest species of flora and fauna. It is spread on a sprawling area of 650 sq. kms and has rich marine vegetation, salt tolerant varieties of trees and plants, rivers and creeks. The Bhitarkanika Wildlife Sanctuary attracts myriad of migrant species like the Olive Ridley Sea Turtles, Asian Open Bill, Black Ibis, Egrets, Darters and many other species from Central-Asia and Europe. Various other animals which call this sanctuary their home are Indian Python, King Cobra, and Rhesus Monkey etc. " android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+.............................. 
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView22" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Dhabaleshwar" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView11" android:layout_alignParentLeft="true" android:src="@drawable/dhableshwar" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView33" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Dedicated to Lord Shiva, this temple is located 37 km away from the main city. It lies on a river island in the River Mahanadi and serves as a popular weekend getaway for the people of Cuttack and other nearby towns. This temple, established back in 10th century AD is an important pilgrimage center and also provides a beautiful scenic and serene ambience. One can reach this place from Cuttack by using boats and ferries. There is also a foot-over bridge which people can use to reach this temple by paying a nominal fee." android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+........................ 
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView222" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Barabati Fort" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView111" android:layout_alignParentLeft="true" android:src="@drawable/barbati" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView333" android:textAppearance="?android:attr/textAppearanceSmall" android:text="The Barbati Fort in Cuttack in Oddisa is a well known fort with carved gateway. It is about 8km away from the city. It is a 14th century fort build during the Ganga dynasty. The fort is situated on the river Mahanadi. The fort is situated at such a calculated place that it provides a beautiful and spectacular view of the modern Cuttack city. It is the earthen mound of the 9 storeyed palace. The monument was built with fortification to protect from enemy attacks. In present days a nearby Barbati stadium is build for cultural and various sports events. There is also a temple dedicated to Katak Chandi. The fort brings charm to the city and depicts its glorious history. The Barbati Fort in Cuttack in Odisha is well known fort with carved gateway. It is about 8km away from the city. It is a 14th century fort build during the Ganga dynasty. The fort is situated on the river Mahanadi. The fort is situated at such a calculated place that it provides a beautiful and spectacular view of the modern Cuttak city. It is the earthen mound of the 9 storeyed palace. the monument was build wih such a design that it protects from enemy attacks. In present days a nearby Barbati stadium is build for cultural and various sports events. There is also a temple dedicated to katak chandi. The fort points charm to the city and depicts the glory of history. The fort covers an area of about 102 acres. The fort was re-established in 14th century and walls of the fort are built with sandstone and laterite." android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+...................... 
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2222" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Paradeep Beach" android:layout_marginTop="14dp" android:layout_below="@+id/textView1" android:layout_alignParentLeft="true"/>
+
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1111" android:layout_alignParentLeft="true" android:src="@drawable/paradeep" android:layout_alignTop="@+id/textView1"/>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView3333" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Paradeep Beach is a serene and tranquil beach located in the state of Orissa. The crystal clear water that is formed by the merging of Bay of Bengal and Mahanadi River is simply spectacular." android:layout_alignLeft="@+id/imageView1" android:layout_alignBottom="@+id/imageView1"/>
+....................... 
+            
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

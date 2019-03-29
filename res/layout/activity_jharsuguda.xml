@@ -1,0 +1,118 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.04" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jharsuguda is mostly preferred by travellers. The go to destination for types of travellers, be it family, kids and couples. Jharsuguda is, however, mostly preferred by Family. The best season or months to visit places in Jharsuguda . There are 4 tourist places in Jharsuguda, which can be explored by travellers. Local attractions can be visited at any time of the day, be it early morning, afternoon, evening or night, as suitable for travellers. Sightseeing in Jharsuguda can be done by travellers, which will take half a day or one day, but to see all sightseeing places, travellers need to stay in Jharsuguda for 2 days to 3 days.
+
+Travellers can also visit Jharsuguda to learn about places to visit, browse through photos and pictures, explore Jharsuguda using a map and read sightseeing reviews. Recently reviewed tourist attractions in Jharsuguda, which are great places to visit . Jharsuguda can be visited in summer, monsoon or winter.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chandi Mandir"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chandiman" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="It is located about 30 km from Jharsuguda Railway Station at Brajarajnagar. Goddess Chandi is worshipped here and the Chandipitha is located inside a natural rock cave on the banks of river IB. One can get down to the temple one can get down to the temple by the iron stairs. And from the temple one can have a beautiful view of the natural surroundings of the banks of the river Ib. It is a very nice picnic spot.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pahadi Mandir"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pahadi" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pahadi Mandir is located at a distance of 3km from Jharsuguda Railway Station and 3.5 km from bus stand on a small hilltop.Lord Shiva is worshipped at the temple. A beautiful view of Jharsuguda town can be seen from the hilltop.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jhadeswar Temple"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jhadeswer" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Jhadeswar temple is located at a distance of about 1 km. from the Jharsuguda Railway station beyond the old town Purunabasti inside a small forest. There is a self appearing Sivalingam here the actual age of which is unknown. But during the reign of Govind Singh Jamindar of Jharsuguda the lingam was being worshiped inside a hut made up of leaves. In 1916 a Gujarati contractor named Mulju Jagmal erected a small temple here. The Jamindar of Jharsuguda arranged Savayats for daily worship and donated agricultural lands for maintenance of the temple and puja.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+          
+
+          
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Koilighughar waterfall"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/koili" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Koilighughar water fall is situated 55 km away from Jharsuguda in the Lakhanpur block near the village Kushmelbahal. It is a picturesque beauty spot with Sylvan backdrop. A rivult named Ahiraj takes origin from the Chhuikhanch forest and while flowing through rocky belt falls from a height of 200ft creating the waterfall of the Koilighughar. After the fall the rivulet flows west words to merge into the river Mahanadi, it is a picturesque beauty spot. There is a Shivalayam known as Maheshwarnath inside the fall. The submerged lingam is not visible. If somebody tries to see it from inside the water in winter and summer the lingam is visible under the reflected sunlight hence from the benefit of the pilgrims another Shiva lingam has been created outside the waterfall. Every year a fair sits in Koilighughar on the occasion of Shivaratri.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
